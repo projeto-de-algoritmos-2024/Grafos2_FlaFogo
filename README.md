@@ -12,6 +12,9 @@
 ## Sobre 
 Resolução de questões disponíveis na plataforma LeetCode, contemplando exercícios de níveis médio e difícil de dificuldade. O objetivo é abordar o conteúdo lecionado em sala de aula de forma simples e intuitiva, com códigos legiveis e de fácil compreensão.
 
+## Vídeo de apresentação
+https://youtu.be/raAgdEcu7AU
+
 |Numeração| Exercício| Dificuldae|
 | ------- | ---------| ----------|
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |Médio  |
